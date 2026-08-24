@@ -2,7 +2,7 @@
 
 # CODSOFT Data Science Internship
 
-## 📌 About the Internship
+## About the Internship
 
 This repository contains the projects completed as part of my **Data Science Internship at CODSOFT**.
 
@@ -12,7 +12,7 @@ According to the internship guidelines, a minimum of **3 tasks** were required f
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 The main objectives of this internship were:
 
@@ -28,7 +28,7 @@ The main objectives of this internship were:
 
 ---
 
-# 📂 Projects Completed
+# Projects Completed
 
 | Task   | Project                       | Type           |
 | ------ | ----------------------------- | -------------- |
@@ -39,7 +39,7 @@ The main objectives of this internship were:
 
 ---
 
-# 🚢 Task 1 — Titanic Survival Prediction
+# Task 1 — Titanic Survival Prediction
 
 ## Description
 
